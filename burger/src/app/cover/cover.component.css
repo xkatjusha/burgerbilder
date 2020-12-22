@@ -1,0 +1,13 @@
+#more{
+    background-color: 	antiquewhite;
+    font-weight: bold;
+}
+#less{
+    background-color: sienna;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 38%;
+    text-align: center;
+}
